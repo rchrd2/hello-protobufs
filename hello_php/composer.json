@@ -1,0 +1,5 @@
+{
+    "require": {
+        "google/protobuf": "v3.13.0.1"
+    }
+}
